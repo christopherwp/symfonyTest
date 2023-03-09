@@ -1,0 +1,9 @@
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style: none;
+    margin-left:400px;
+    margin-right: 50px;
+}
+
